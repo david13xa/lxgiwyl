@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1,BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1,BBC EARTH VIETNAM
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+#EXTINF:-1,LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1,NHK GENERAL TV
+http://asia.vthanhtivi.pw/NHK_G/index.m3u8
+#EXTINF:-1,NHK EDUCATIONAL TV
+http://asia.vthanhtivi.pw/NHK_E/index.m3u8
+#EXTINF:-1,NIPPON TV
+http://asia.vthanhtivi.pw/Nippon_TV/index.m3u8
+#EXTINF:-1,TBS
+http://asia.vthanhtivi.pw/TBS/index.m3u8
+#EXTINF:-1,FUJI TV
+http://asia.vthanhtivi.pw/Fuji_TV/index.m3u8
+#EXTINF:-1,TV ASAHI
+http://asia.vthanhtivi.pw/TV_Asahi/index.m3u8
+#EXTINF:-1,TV TOKYO
+http://asia.vthanhtivi.pw/TV_Tokyo/index.m3u8
+#EXTINF:-1,TOKYO MX
+http://asia.vthanhtivi.pw/Tokyo_MX1/index.m3u8
+#EXTINF:-1,BS11
+http://asia.vthanhtivi.pw/BS11/index.m3u8
+#EXTINF:-1,AT-X
+http://asia.vthanhtivi.pw/AT-X/index.m3u8
+#EXTINF:-1,WOWOW LIVE
+http://202.60.106.14:8080/1503/playlist.m3u8
+#EXTINF:-1,QVC JAPAN
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
